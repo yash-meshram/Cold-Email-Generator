@@ -1,0 +1,16 @@
+Langchain
+    Framework that makes building LLM application easier
+    open source model
+    have class ChatGorq
+
+    WebBaseLoader
+        can load the contain of the website
+
+Setup Vector Data base
+    Using ChromaDb
+    1. Fast search
+    2. Help stored things in optimal way (Optimize Storage)
+    word and sentence convert to ---> Vector
+    stored in let say SQL --> hashing function is apllied --> grouped the similar vectors
+    new vector come for search --> hashing is apply to it --> we know which group to look --> linear search in that group only and not in whole db --> fast computing (less computing)
+    This is called 'Local Sensity Hashing'
