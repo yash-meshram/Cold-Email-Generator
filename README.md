@@ -43,6 +43,13 @@ testing/            # Test scripts and sample data
 NOTES.txt           # Project notes and technical explanations
 ```
 
+## Diagram
+<picture>
+  <source srcset="app/resources/diagram-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="app/resources/diagram-light.png" media="(prefers-color-scheme: light)">
+  <img src="app/resources/diagram-light.png" alt="Project Workflow">
+</picture>
+
 ## Setup Instructions
 
 ### Prerequisites
