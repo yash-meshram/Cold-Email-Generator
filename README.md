@@ -115,4 +115,4 @@ Open the provided local URL in your browser to use the app.
 
 ## License
 
-[MIT License](LICENSE) (or specify your license)
+[MIT License](LICENSE)
