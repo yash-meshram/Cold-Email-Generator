@@ -115,4 +115,4 @@ Open the provided local URL in your browser to use the app.
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](https://github.com/yash-meshram/Cold-Email-Generator?tab=MIT-1-ov-file)
